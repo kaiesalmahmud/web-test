@@ -6,7 +6,7 @@ export default function App(): any {
     <section className='h-screen flex flex-col justify-center items-center bg-black/95 text-white'>
       <img
         className='h-screen object-contain w-full'
-        src='https://avatars.githubusercontent.com/u/59995405?v=4?s=400'
+        src='https://wallpapercave.com/wp/wp11426770.jpg'
         alt='ai'
       />
       <Heading>Website Coming Soon</Heading>
