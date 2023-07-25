@@ -9,7 +9,7 @@ export default function App(): any {
         src='https://avatars.githubusercontent.com/u/59995405?v=4?s=400'
         alt='ai'
       />
-      <Heading className='absolute'>Website Coming Soon</Heading>
+      <Heading>Website Coming Soon</Heading>
     </section>
   );
 }
