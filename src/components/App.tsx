@@ -9,7 +9,7 @@ export default function App(): any {
         src='https://wallpapercave.com/wp/wp11426770.jpg'
         alt='ai'
       />
-      <Heading>Website Coming Soon</Heading>
+      <Heading className="absolute">Website Coming Soon</Heading>
     </section>
   );
 }
