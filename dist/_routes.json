@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/_astro/App.6ca7b788.js",
+    "/_astro/client.2ce19805.js",
+    "/_astro/index.7940945d.css",
+    "/_astro/index.ed373d49.js",
+    "/_worker.js",
+    "/favicon.svg"
+  ]
+}
